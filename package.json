@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  
+  "homepage": "https://github.com/calcifer-3118/avatar-creation-tool.git",
   "scripts": {
     "build": "remix vite:build",
     "dev": "remix vite:dev",
